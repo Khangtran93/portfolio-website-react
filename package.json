@@ -1,7 +1,6 @@
 {
   "name": "portfolio-react",
   "version": "0.1.0",
-  "homepage": "https://khangtran93.github.io/portfolio-website-react/build",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
