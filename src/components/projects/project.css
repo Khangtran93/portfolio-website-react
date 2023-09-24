@@ -1,0 +1,76 @@
+.portfolio__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+    margin-top: 2rem !important;
+    
+}
+.portfolio__item {
+    border-radius: 2rem;
+    background: #33287d91;
+    padding: 1.2rem;
+    border: 1px solid #211c4391;
+    align-items: center;
+}
+
+.portfolio__item-cta {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.7rem; 
+}
+
+.portfolio__item:hover {
+    background: transparent;
+    border: 1px solid #1e1845fb;
+    transition: var(--transition);
+}
+
+.portfolio__item-img {
+    border-radius: 1.5rem;
+    overflow:hidden;
+    
+    background-position: center;
+}
+
+.portfolio__item-img:hover {
+    transform: scale(1.03);
+    transition: var(--transition);
+}
+
+.portfolio__item h3 {
+    color: var(--color-white);
+    text-align: center;
+    margin-top: 1.2rem;
+}
+.github-btn {
+    margin: 0.5rem;
+    font-size: 1.5rem;
+    /* width: max-content; */
+    /* display: inline-block; */
+    color: var(--color-white);
+    padding: 0.35rem 0.75rem;
+    padding-bottom: 0.15rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary);
+    transition: var(--transition);
+}
+
+.github-btn:hover {
+    background: rgba(50, 17, 141, 0.725);
+}
+/*========================= MEDIA QUERIES (MEDIUM DEVICES) =====================*/
+@media screen and (max-width: 1024px) {
+    .portfolio__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+}
+
+/*========================= MEDIA QUERIES (SMALL DEVICES) =====================*/
+@media screen and (max-width: 600px) {
+    .portfolio__container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
