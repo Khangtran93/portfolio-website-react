@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-website-react/build/static/css/main.028bea96.css",
-    "main.js": "/portfolio-website-react/build/static/js/main.11bebf5a.js",
-    "static/media/aboutme.png": "/portfolio-website-react/build/static/media/aboutme.8f5a9ada017f41f570e3.png",
-    "static/media/myimg.png": "/portfolio-website-react/build/static/media/myimg.8ccba3e2483c9ac84817.png",
-    "static/media/KhangResume.pdf": "/portfolio-website-react/build/static/media/KhangResume.53fdff87f2cea2cc9fac.pdf",
-    "static/media/eCommercewebsite.png": "/portfolio-website-react/build/static/media/eCommercewebsite.62b17c72a30745cf6fb4.png",
-    "static/media/pm_rs.png": "/portfolio-website-react/build/static/media/pm_rs.e501f80e521d091f20f7.png",
-    "static/media/pomodoro_rs.png": "/portfolio-website-react/build/static/media/pomodoro_rs.4dde8fef4af990eaaa7d.png",
-    "static/media/flashcard_rs.png": "/portfolio-website-react/build/static/media/flashcard_rs.5d8e147a16796dd03af2.png",
-    "static/media/snake_game_rs.png": "/portfolio-website-react/build/static/media/snake_game_rs.de3bbab731425624c85d.png",
-    "index.html": "/portfolio-website-react/build/index.html",
-    "main.028bea96.css.map": "/portfolio-website-react/build/static/css/main.028bea96.css.map",
-    "main.11bebf5a.js.map": "/portfolio-website-react/build/static/js/main.11bebf5a.js.map"
+    "main.css": "./static/css/main.028bea96.css",
+    "main.js": "./static/js/main.d1639f52.js",
+    "static/media/aboutme.png": "./static/media/aboutme.8f5a9ada017f41f570e3.png",
+    "static/media/myimg.png": "./static/media/myimg.8ccba3e2483c9ac84817.png",
+    "static/media/KhangResume.pdf": "./static/media/KhangResume.53fdff87f2cea2cc9fac.pdf",
+    "static/media/eCommercewebsite.png": "./static/media/eCommercewebsite.62b17c72a30745cf6fb4.png",
+    "static/media/pm_rs.png": "./static/media/pm_rs.e501f80e521d091f20f7.png",
+    "static/media/pomodoro_rs.png": "./static/media/pomodoro_rs.4dde8fef4af990eaaa7d.png",
+    "static/media/flashcard_rs.png": "./static/media/flashcard_rs.5d8e147a16796dd03af2.png",
+    "static/media/snake_game_rs.png": "./static/media/snake_game_rs.de3bbab731425624c85d.png",
+    "index.html": "./index.html",
+    "main.028bea96.css.map": "./static/css/main.028bea96.css.map",
+    "main.d1639f52.js.map": "./static/js/main.d1639f52.js.map"
   },
   "entrypoints": [
     "static/css/main.028bea96.css",
-    "static/js/main.11bebf5a.js"
+    "static/js/main.d1639f52.js"
   ]
 }
