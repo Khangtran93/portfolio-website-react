@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-react/static/css/main.4ff93aa9.css",
+    "main.js": "/portfolio-website-react/static/js/main.b89516dd.js",
+    "static/media/aboutme.png": "/portfolio-website-react/static/media/aboutme.8f5a9ada017f41f570e3.png",
+    "static/media/myimg.png": "/portfolio-website-react/static/media/myimg.8ccba3e2483c9ac84817.png",
+    "static/media/KhangResume.pdf": "/portfolio-website-react/static/media/KhangResume.53fdff87f2cea2cc9fac.pdf",
+    "static/media/eCommercewebsite.png": "/portfolio-website-react/static/media/eCommercewebsite.62b17c72a30745cf6fb4.png",
+    "static/media/pm_rs.png": "/portfolio-website-react/static/media/pm_rs.e501f80e521d091f20f7.png",
+    "static/media/pomodoro_rs.png": "/portfolio-website-react/static/media/pomodoro_rs.4dde8fef4af990eaaa7d.png",
+    "static/media/flashcard_rs.png": "/portfolio-website-react/static/media/flashcard_rs.5d8e147a16796dd03af2.png",
+    "static/media/snake_game_rs.png": "/portfolio-website-react/static/media/snake_game_rs.de3bbab731425624c85d.png",
+    "index.html": "/portfolio-website-react/index.html",
+    "main.4ff93aa9.css.map": "/portfolio-website-react/static/css/main.4ff93aa9.css.map",
+    "main.b89516dd.js.map": "/portfolio-website-react/static/js/main.b89516dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff93aa9.css",
+    "static/js/main.b89516dd.js"
+  ]
+}
